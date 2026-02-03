@@ -5,8 +5,8 @@ app = Flask(__name__)
 
 # Infobip API konfiguracija
 INFOBIP_CONFIG = {
-    'api_key': 'YOUR_INFOBIP_API_KEY',  # Zamijeni sa pravim API ključem
-    'base_url': 'https://api.infobip.com',
+    'api_key': '3619b91a06bbbe24539277c40a38abf4-d1bc7728-4a5f-4f87-9924-18f601e42159',  # Zamijeni sa pravim API ključem
+    'base_url': 'https://wgnj9q.api.infobip.com',
     'sender': 'InfoSMS'  # Naziv pošiljatelja (do 11 znakova)
 }
 
